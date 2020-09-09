@@ -1,9 +1,9 @@
 # Proyecto2020
 
 
-####Integrantes:
+#### Integrantes:
 - Juan Villagrán.
 - Camilo Godoy.
 - Sebastián Candia.
 
-####Link del Proyecto:
+#### Link del Proyecto:

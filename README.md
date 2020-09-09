@@ -1,4 +1,5 @@
 # Proyecto2020
+Aun en desarrollo.
 
 
 #### Integrantes:
@@ -8,3 +9,6 @@
 
 #### Link del Proyecto:
 https://github.com/Scandia05/Proyecto.git 
+
+#### Idea del Proyecto:
+Idea en desarrollo.

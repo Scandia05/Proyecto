@@ -11,4 +11,4 @@ Aun en desarrollo.
 https://github.com/Scandia05/Proyecto.git 
 
 #### Idea del Proyecto:
-Idea en desarrollo.
+- Idea en desarrollo.
